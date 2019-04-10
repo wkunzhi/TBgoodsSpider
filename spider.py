@@ -14,6 +14,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from pyquery import PyQuery as pq
 from config import *
 
+# test
+
 conn = pymysql.Connect(
             host=MYSQL_HOST,
             port=MYSQL_PORT,
